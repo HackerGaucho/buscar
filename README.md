@@ -45,6 +45,7 @@ Formulário de busca em diversos sites
 1. sinônimos
 1. so
 1. tld
+1. torrent (limetorrent)
 1. tpb
 1. twitter
 1. username
