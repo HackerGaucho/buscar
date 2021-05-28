@@ -17,8 +17,8 @@ Formulário de busca em diversos sites
 1. discogs
 1. docs (em espanhol)
 1. emojipedia
-1. extensão
 1. extensão (arquivos)
+1. extensão (chrome)
 1. farmácia (são joão)
 1. fricke
 1. genius
@@ -30,6 +30,7 @@ Formulário de busca em diversos sites
 1. informal
 1. last.fm
 1. letras
+1. limetorrents
 1. linux mint (software)
 1. maps (google)
 1. mdn
@@ -46,7 +47,6 @@ Formulário de busca em diversos sites
 1. sinônimos
 1. so
 1. tld
-1. torrent (limetorrent)
 1. tpb
 1. twitter
 1. username
