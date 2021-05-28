@@ -26,7 +26,7 @@ $arr=[
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
     'infopedia (dicionario)'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',        
     'informal'=>'https://www.dicionarioinformal.com.br/%s/',
-    'last.fm'=>'https://www.last.fm/search?q=%s',
+    'last.fm'=>'https://www.last.fm/search/tracks?q=%s',
     'letras'=>'https://www.letras.mus.br/?q=%s',
     'linux mint (software)'=>'https://community.linuxmint.com/software/view/%s',
     'limetorrents'=>'https://www.limetorrents.info/search/all/%s/',    
