@@ -29,7 +29,7 @@ $arr=[
     'last.fm'=>'https://www.last.fm/search/tracks?q=%s',
     'letras'=>'https://www.letras.mus.br/?q=%s',
     'linux mint (software)'=>'https://community.linuxmint.com/software/view/%s',
-    'limetorrents'=>'https://www.limetorrents.info/search/all/%s/',    
+    'limetorrents'=>'https://www.limetorrents.info/search/all/%s/seeds/1/',    
     'mdn'=>'https://developer.mozilla.org/en-US/search?q=%s',
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s/_OrderId_PRICE',  
