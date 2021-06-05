@@ -17,7 +17,7 @@
                 error_reporting(E_ALL);
                 $buscas=require 'buscas.php';
                 foreach ($buscas as $key => $value) {
-                    if($key=='twitter'){
+                    if($key=='duck'){
                         $sel=' selected';
                     }else{
                         $sel=null;
