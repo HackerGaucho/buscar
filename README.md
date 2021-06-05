@@ -17,8 +17,7 @@ Formulário de busca em diversos sites
 1. discogs
 1. docs (em espanhol)
 1. emojipedia
-1. extensão (arquivos)
-1. extensão (chrome)
+1. extensão
 1. farmácia (são joão)
 1. fricke
 1. genius
