@@ -50,6 +50,7 @@ Formulário de busca em diversos sites
 1. tld
 1. tpb
 1. twitter
+1. urban dictionary
 1. username
 1. whosampled
 1. wikipedia
