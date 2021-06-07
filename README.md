@@ -36,6 +36,7 @@ Formulário de busca em diversos sites
 1. mdn
 1. mercado livre
 1. music
+1. notícias (google)
 1. npm
 1. oembed
 1. packagist

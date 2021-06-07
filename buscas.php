@@ -34,6 +34,7 @@ $arr=[
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s/_OrderId_PRICE',  
     'music'=>'https://music.youtube.com/search?q=%s',
+    'notícias (google)'=>'https://news.google.com/search?q=%s&hl=pt-BR&gl=BR&ceid=BR%3Apt-419',
     'npm'=>'https://www.npmjs.com/search?q=%s',
     'oembed'=>'http://localhost/oembed/index.php?id=%s',
     'packagist'=>'https://packagist.org/?query=%s',
