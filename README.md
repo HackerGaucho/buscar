@@ -18,13 +18,14 @@ Formulário de busca em diversos sites
 1. docs (em espanhol)
 1. duck
 1. emojipedia
-1. extensão
+1. extensão (firefox)
 1. farmácia (são joão)
 1. fricke
 1. genius
 1. github
 1. globo play
 1. icon
+1. imagens (yandex)
 1. imdb
 1. infopedia (dicionario)
 1. informal
