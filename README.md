@@ -25,10 +25,11 @@ Formulário de busca em diversos sites
 1. github
 1. globo play
 1. icon
-1. imagens (yandex)
+1. imagens (yahoo)
 1. imdb
 1. infopedia (dicionario)
 1. informal
+1. is down
 1. last.fm
 1. letras
 1. limetorrents
