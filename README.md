@@ -32,6 +32,7 @@ Formulário de busca em diversos sites
 1. is down
 1. last.fm
 1. letras
+1. letras (azlyrics)
 1. limetorrents
 1. linux mint (software)
 1. maps (google)
