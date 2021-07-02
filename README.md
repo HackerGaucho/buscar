@@ -22,6 +22,7 @@ Formulário de busca em diversos sites
 1. farmácia (são joão)
 1. fricke
 1. genius
+1. geonames
 1. github
 1. globo play
 1. icon

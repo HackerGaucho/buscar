@@ -20,6 +20,7 @@ $arr=[
     'farmácia (são joão)'=>'https://www.saojoaofarmacias.com.br/search.html?query=%s&type=lowest',
     'fricke'=>'https://www.loja.fricke.com.br/loja/busca.php?palavra_busca=%s',
     'genius'=>'https://genius.com/search?q=%s',
+    'geonames'=>'https://www.geonames.org/search.html?q=%s',
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'icon'=>'https://fontawesome.com/icons?d=gallery&p=2&q=%s&s=brands,duotone,light,regular,solid&m=free',
