@@ -34,6 +34,7 @@ if(isset($buscas[$key])){
     }
     if(
     $key=='dailymotion' OR
+    $key=='scihub' OR
     $key=='tpb'
     ){
         $q=urldecode($q);
