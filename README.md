@@ -35,10 +35,10 @@ Formulário de busca em diversos sites
 1. letras
 1. letras (azlyrics)
 1. limetorrents
-1. linux mint (software)
 1. maps (google)
 1. mdn
 1. mercado livre
+1. mint (software)
 1. music
 1. news (google)
 1. npm
