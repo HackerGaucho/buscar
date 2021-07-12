@@ -7,7 +7,7 @@ $arr=[
     'antônimos'=>'https://www.antonimos.com.br/busca.php?q=%s',
     'artigos científicos (researchgate)'=>'https://www.researchgate.net/search?q=%s',
     'atom'=>'https://atom.io/packages/search?q=%s',
-    'books'=>'https://book4you.org/s/?q=%s',
+    'books'=>'https://br1lib.org/s/?q=%s',//https://book4you.org/s/?q=%s
     'britannica'=>'https://escola.britannica.com.br/pesquisa/artigos/%s',
     'buscape'=>'https://www.buscape.com.br/search?page=1&invalidPath=false&sortBy=prod_items_sort_by_price_asc&q=%s&no-shortcut=1',
     'cdnjs'=>'https://cdnjs.com/libraries?q=%s',
