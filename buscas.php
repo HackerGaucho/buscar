@@ -29,6 +29,7 @@ $arr=[
     'infopedia (dicionario)'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',        
     'informal'=>'https://www.dicionarioinformal.com.br/%s/',
     'is down'=>'https://www.isitdownrightnow.com/%s.html',
+    'jquery'=>'https://api.jquery.com/?s=%s',
     'last.fm'=>'https://www.last.fm/search/tracks?q=%s',
     'letras'=>'https://www.letras.mus.br/?q=%s',    
     'letras (azlyrics)'=>'https://search.azlyrics.com/search.php?q=%s',    

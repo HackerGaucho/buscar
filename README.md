@@ -31,6 +31,7 @@ Formulário de busca em diversos sites
 1. infopedia (dicionario)
 1. informal
 1. is down
+1. jquery
 1. last.fm
 1. letras
 1. letras (azlyrics)
