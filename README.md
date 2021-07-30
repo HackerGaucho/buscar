@@ -37,6 +37,7 @@ Formulário de busca em diversos sites
 1. letras
 1. letras (azlyrics)
 1. limetorrents
+1. man
 1. maps (google)
 1. mdn
 1. mercado livre

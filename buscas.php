@@ -35,6 +35,7 @@ $arr=[
     'letras'=>'https://www.letras.mus.br/?q=%s',    
     'letras (azlyrics)'=>'https://search.azlyrics.com/search.php?q=%s',    
     'limetorrents'=>'https://www.limetorrents.info/search/all/%s/seeds/1/',    
+    'man'=>'https://www.mankier.com/1/%s',
     'mdn'=>'https://developer.mozilla.org/en-US/search?q=%s',
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s/_OrderId_PRICE',
