@@ -55,6 +55,7 @@ $arr=[
     'tld'=>'https://tld-list.com/tld/%s',
     'tpb'=>'https://thepiratebay0.org/search/%s/1/99/0',
     'twitter'=>'https://twitter.com/search?q=%s+lang%3Apt%20filter%3Averified&src=typd&f=live&vertical=default',
+    'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
     'urban dictionary'=>'https://www.urbandictionary.com/define.php?term=%s',
     'username'=>'http://localhost/username/index.php?user=%s',
     'whosampled'=>'https://www.whosampled.com/search/?q=%s',
