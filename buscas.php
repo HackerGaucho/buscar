@@ -13,7 +13,7 @@ $arr=[
     'cdnjs'=>'https://cdnjs.com/libraries?q=%s',
     'dailymotion'=>'https://www.dailymotion.com/search/%s/videos',
     'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',
-    'docs (em espanhol)'=>'https://www.documaniatv.com/search.php?keywords=%s',
+    'docs (em espanhol)'=>'https://www.documaniatv.com/search.php?keywords=+%s',
     'docs (nomes em espanhol)'=>'https://www.filmaffinity.com/es/search.php?stext=%s',
     'duck'=>'https://duckduckgo.com/?q=%s&kl=br-pt&ia=web',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
@@ -60,6 +60,7 @@ $arr=[
     'username'=>'http://localhost/username/index.php?user=%s',
     'whosampled'=>'https://www.whosampled.com/search/?q=%s',
     'wikipedia'=>'https://duckduckgo.com/?q=%s+site%3Awikipedia.org&ia=web',
+    'wikiquote'=>'https://pt.wikiquote.org/w/index.php?search=%s'
 ];
 ksort($arr);
 return $arr;
