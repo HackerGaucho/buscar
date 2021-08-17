@@ -25,7 +25,7 @@ $arr=[
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'icon'=>'https://fontawesome.com/icons?d=gallery&p=2&q=%s&s=brands,duotone,light,regular,solid&m=free',
-    'imagens (yahoo)'=>'https://br.images.search.yahoo.com/search/images?p=%s&fr2=p%3As%2Cv%3Ai',
+    'imagens (yahoo)'=>'https://br.images.search.yahoo.com/search/images?p=%s&fr2=p%3As%2Cv%3Ai&save=0',
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
     'infopedia (dicionario)'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',        
     'informal'=>'https://www.dicionarioinformal.com.br/%s/',
