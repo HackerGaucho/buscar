@@ -10,6 +10,7 @@ $arr=[
     'books'=>'https://br1lib.org/s/?q=%s',//https://book4you.org/s/?q=%s
     'britannica'=>'https://escola.britannica.com.br/pesquisa/artigos/%s',
     'buscape'=>'https://www.buscape.com.br/search?page=1&invalidPath=false&sortBy=prod_items_sort_by_price_asc&q=%s&no-shortcut=1',
+    'calorias'=>'https://www.myfitnesspal.com/pt/food/search?search=%s',
     'cdnjs'=>'https://cdnjs.com/libraries?q=%s',
     'dailymotion'=>'https://www.dailymotion.com/search/%s/videos',
     'dicionario (infopedia)'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',          

@@ -12,6 +12,7 @@ Formulário de busca em diversos sites
 1. books
 1. britannica
 1. buscape
+1. calorias
 1. cdnjs
 1. dailymotion
 1. dicionario (infopedia)
