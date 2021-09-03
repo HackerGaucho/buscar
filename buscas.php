@@ -5,6 +5,7 @@ $arr=[
     'alexa'=>'https://alexa.com/siteinfo/%s',
     'atom'=>'https://atom.io/packages/search?q=%s',
     'buscape'=>'https://www.buscape.com.br/search?page=1&invalidPath=false&sortBy=prod_items_sort_by_price_asc&q=%s&no-shortcut=1',
+    'dev.to'=>'https://dev.to/search?q=%s',
     'dicionario'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',          
     'duck'=>'https://duckduckgo.com/?q=%s&kl=br-pt&ia=web',
     'extensões'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension',

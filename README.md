@@ -7,6 +7,7 @@ Formulário de busca em diversos sites
 1. alexa
 1. atom
 1. buscape
+1. dev.to
 1. dicionario
 1. duck
 1. extensões
