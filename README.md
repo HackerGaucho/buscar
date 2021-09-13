@@ -26,6 +26,8 @@ Formulário de busca em diversos sites
 1. oembed
 1. packagist
 1. php
+1. pkgs
+1. sci-hub
 1. tld
 1. tpb
 1. twitter

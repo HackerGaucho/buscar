@@ -33,6 +33,7 @@ if(isset($buscas[$key])){
         //die($q);
     }
     if(
+    $key=='sci-hub' or    
     $key=='tpb'
     ){
         $q=urldecode($q);
