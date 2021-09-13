@@ -24,7 +24,7 @@ $arr=[
     'oembed'=>'http://localhost/oembed/index.php?id=%s',
     'packagist'=>'https://packagist.org/?query=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
-    'pkgs'=>'https://pkgs.org/search/?q=%s',
+    'pkgs'=>'https://pkgs.org/download/%s',
     'sci-hub'=>'https://sci-hub.se/%s',    
     'tld'=>'https://tld-list.com/tld/%s',
     'tpb'=>'https://thepiratebay0.org/search/%s/1/99/0',
