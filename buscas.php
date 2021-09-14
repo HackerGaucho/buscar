@@ -18,6 +18,7 @@ $arr=[
     'limetorrents'=>'https://www.limetorrents.info/search/all/%s/seeds/1/',    
     'mdn'=>'https://developer.mozilla.org/en-US/search?q=%s',
     'mapas'=>'https://www.google.com.br/maps?hl=pt&q=%s',
+    'mememaker'=>'https://imgflip.com/memesearch?q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s/_OrderId_PRICE',
     'mint'=>'https://community.linuxmint.com/software/view/%s',      
     'music'=>'https://music.youtube.com/search?q=%s',
