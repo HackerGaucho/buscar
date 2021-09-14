@@ -12,6 +12,7 @@ Formulário de busca em diversos sites
 1. dev.to
 1. dicionario
 1. duck
+1. emojipedia
 1. extensões
 1. geonames
 1. github

@@ -10,6 +10,7 @@ $arr=[
     'dev.to'=>'https://dev.to/search?q=%s',
     'dicionario'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',          
     'duck'=>'https://duckduckgo.com/?q=%s&kl=br-pt&ia=web',
+    'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     'extensões'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension',
     'geonames'=>'https://www.geonames.org/search.html?q=%s',
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
