@@ -20,6 +20,7 @@ $arr=[
     'mapas'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mememaker'=>'https://imgflip.com/memesearch?q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s/_OrderId_PRICE',
+    'midi'=>'https://bitmidi.com/search?q=%s',    
     'mint'=>'https://community.linuxmint.com/software/view/%s',      
     'music'=>'https://music.youtube.com/search?q=%s',
     'news'=>'https://news.google.com/search?q=%s&hl=pt-BR&gl=BR&ceid=BR%3Apt-419',
