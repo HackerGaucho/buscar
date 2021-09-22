@@ -15,6 +15,7 @@ $arr=[
     'geonames'=>'https://www.geonames.org/search.html?q=%s',
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
     'informal'=>'https://www.dicionarioinformal.com.br/%s/',
+    'instagram'=>'https://www.picuki.com/profile/%s',    
     'limetorrents'=>'https://www.limetorrents.info/search/all/%s/seeds/1/',    
     'mdn'=>'https://developer.mozilla.org/en-US/search?q=%s',
     'mapas'=>'https://www.google.com.br/maps?hl=pt&q=%s',

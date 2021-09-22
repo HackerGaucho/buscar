@@ -17,11 +17,13 @@ Formulário de busca em diversos sites
 1. geonames
 1. github
 1. informal
+1. instagram
 1. limetorrents
 1. mapas
 1. mdn
 1. mememaker
 1. mercado livre
+1. midi
 1. mint
 1. music
 1. news
