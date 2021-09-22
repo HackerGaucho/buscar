@@ -9,6 +9,7 @@ $arr=[
     'buscape'=>'https://www.buscape.com.br/search?page=1&invalidPath=false&sortBy=prod_items_sort_by_price_asc&q=%s&no-shortcut=1',
     'dev.to'=>'https://dev.to/search?q=%s',
     'dicionario'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',          
+    'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',    
     'duck'=>'https://duckduckgo.com/?q=%s&kl=br-pt&ia=web',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     'extensões'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension',
