@@ -12,11 +12,15 @@ Formulário de busca em diversos sites
 1. dev.to
 1. dicionario
 1. discogs
+1. docs (em espanhol)
+1. docs (nomes em espanhol)
 1. duck
 1. emojipedia
 1. extensões
 1. geonames
 1. github
+1. imagens
+1. imdb
 1. informal
 1. instagram
 1. limetorrents
