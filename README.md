@@ -24,6 +24,7 @@ Formulário de busca em diversos sites
 1. informal
 1. instagram
 1. ip
+1. isdown
 1. limetorrents
 1. mapas
 1. mdn
@@ -43,3 +44,4 @@ Formulário de busca em diversos sites
 1. twitter
 1. unicode
 1. username
+1. wikidata

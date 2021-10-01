@@ -13,7 +13,8 @@ $arr=[
     'docs (em espanhol)'=>'https://www.documaniatv.com/search.php?keywords=+%s',
     'docs (nomes em espanhol)'=>'https://www.filmaffinity.com/es/search.php?stext=%s',    
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm', 
-    'ip'=>'https://ipinfo.io/%s',      
+    'ip'=>'https://ipinfo.io/%s',   
+    'isdown'=>'https://downstatuscheck.com/search.php?q=%s',   
     'duck'=>'https://duckduckgo.com/?q=%s&kl=br-pt&ia=web',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     'extensões'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension',
@@ -41,6 +42,7 @@ $arr=[
     'twitter'=>'https://twitter.com/search?q=%22%s%22%20lang%3Apt&src=typed_query&f=live',
     'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
     'username'=>'http://localhost/username/index.php?user=%s',
+    'wikidata'=>'https://www.wikidata.org/w/index.php?search=%s',
 ];
 ksort($arr);
 return $arr;
