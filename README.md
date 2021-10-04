@@ -16,6 +16,8 @@ Formulário de busca em diversos sites
 1. docs (nomes em espanhol)
 1. duck
 1. emojipedia
+1. en-pt
+1. es-pt
 1. extensões
 1. geonames
 1. github
@@ -38,6 +40,8 @@ Formulário de busca em diversos sites
 1. packagist
 1. php
 1. pkgs
+1. pt-en
+1. pt-es
 1. sci-hub
 1. tld
 1. tpb
