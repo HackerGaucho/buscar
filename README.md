@@ -9,4 +9,5 @@ Formulário de busca em diversos sites
 1. oembed
 1. packagist
 1. php
+1. traduzir
 1. username

@@ -42,6 +42,7 @@ $arr=[
     //'pt-en'=>'https://context.reverso.net/traducao/portugues-ingles/%s',
     //'pt-es'=>'https://context.reverso.net/traducao/portugues-espanhol/%s',        
     //'sci-hub'=>'https://sci-hub.se/%s',    
+    'traduzir'=>'https://www.deepl.com/translator#en/pt/%s',
     //'tld'=>'https://tld-list.com/tld/%s',
     //'tpb'=>'https://thepiratebay0.org/search/%s/1/99/0',
     //'twitter'=>'https://twitter.com/search?q=%22%s%22%20lang%3Apt&src=typed_query&f=live',
