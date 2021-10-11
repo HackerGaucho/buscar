@@ -8,6 +8,7 @@ Formulário de busca em diversos sites
 1. dicionario
 1. discogs
 1. duck
+1. emojipedia
 1. extensões
 1. github
 1. letras

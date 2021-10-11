@@ -17,7 +17,7 @@ $arr=[
     //'ip'=>'https://ipinfo.io/%s',   
     //'isdown'=>'https://downstatuscheck.com/search.php?q=%s',   
     'duck'=>'https://html.duckduckgo.com/html/?q=%s&kl=br-pt&ia=web',
-    //'emojipedia'=>'https://emojipedia.org/search/?q=%s',
+    'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     //'enciclopedia'=>'https://pt.wikipedia.org/w/index.php?search=%s',
     //'en-pt'=>'https://context.reverso.net/traducao/ingles-portugues/%s',    
     //'es-pt'=>'https://context.reverso.net/traducao/espanhol-portugues/%s',      
