@@ -9,6 +9,7 @@ Formulário de busca em diversos sites
 1. duck
 1. extensões
 1. github
+1. letras
 1. mdn
 1. music
 1. oembed

@@ -27,6 +27,7 @@ $arr=[
     //'imagens'=>'https://commons.wikimedia.org/w/index.php?search=%s&title=Special:MediaSearch&fulltext=Search',    
     //'informal'=>'https://www.dicionarioinformal.com.br/%s/',
     //'instagram'=>'https://www.picuki.com/profile/%s',    
+    'letras'=>'https://www.letras.mus.br/?q=%s',
     //'limetorrents'=>'https://www.limetorrents.info/search/all/%s/seeds/1/',    
     'mdn'=>'https://developer.mozilla.org/en-US/search?q=%s',
     //'mapas'=>'https://www.google.com.br/maps?hl=pt&q=%s',
