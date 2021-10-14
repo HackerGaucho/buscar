@@ -51,4 +51,3 @@ if(isset($buscas[$key])){
 }else{
     print '404';
 }
-?>
