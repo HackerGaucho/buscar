@@ -14,6 +14,7 @@ Formulário de busca em diversos sites
 1. letras
 1. mdn
 1. mercado livre
+1. mint
 1. music
 1. oembed
 1. packagist
