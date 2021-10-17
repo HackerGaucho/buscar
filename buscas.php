@@ -6,7 +6,7 @@ $arr=[
     'allmusic'=>'https://www.allmusic.com/search/all/%s',
     //'antonimos'=>'https://www.antonimos.com.br/busca.php?q=%s',
     'atom'=>'https://atom.io/packages/search?q=%s',
-    //'books'=>'https://br1lib.org/s/?q=%s',//https://book4you.org/s/?q=%s    
+    'books'=>'https://br1lib.org/s/?q=%s',//https://book4you.org/s/?q=%s    
     //'buscape'=>'https://www.buscape.com.br/search?page=1&invalidPath=false&sortBy=prod_items_sort_by_price_asc&q=%s&no-shortcut=1',
     //'dev.to'=>'https://dev.to/search?q=%s',
     'dicionario'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',          
