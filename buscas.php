@@ -36,7 +36,7 @@ $arr=[
     //'midi'=>'https://bitmidi.com/search?q=%s',    
     'mint'=>'https://community.linuxmint.com/software/view/%s',      
     'music'=>'https://music.youtube.com/search?q=%s',
-    //'news'=>'https://news.google.com/search?q=%s&hl=pt-BR&gl=BR&ceid=BR%3Apt-419',
+    'notícias'=>'https://news.google.com/search?q=%s&hl=pt-BR&gl=BR&ceid=BR%3Apt-419',
     'oembed'=>'http://localhost/oembed/index.php?id=%s',
     'packagist'=>'https://packagist.org/?query=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
