@@ -28,4 +28,5 @@ Formulário de busca em diversos sites
 1. pt-es
 1. traduzir
 1. twitter
+1. unicode
 1. username

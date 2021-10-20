@@ -49,7 +49,7 @@ $arr=[
     //'tld'=>'https://tld-list.com/tld/%s',
     //'tpb'=>'https://thepiratebay0.org/search/%s/1/99/0',
     'twitter'=>'https://twitter.com/search?q=%22%s%22%20lang%3Apt%20-filter:replies&src=typed_query&f=live',
-    //'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
+    'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
     'username'=>'http://localhost/username/index.php?user=%s',
     //'wikidata'=>'https://www.wikidata.org/w/index.php?search=%s',
 ];
