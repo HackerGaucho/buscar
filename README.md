@@ -10,6 +10,8 @@ Formulário de busca em diversos sites
 1. discogs
 1. duck
 1. emojipedia
+1. en-pt
+1. es-pt
 1. extensões
 1. github
 1. last.fm
@@ -22,6 +24,8 @@ Formulário de busca em diversos sites
 1. oembed
 1. packagist
 1. php
+1. pt-en
+1. pt-es
 1. traduzir
 1. twitter
 1. username
