@@ -53,6 +53,7 @@ $arr=[
     'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
     'username'=>'http://localhost/username/index.php?user=%s',
     //'wikidata'=>'https://www.wikidata.org/w/index.php?search=%s',
+    'youtube'=>'https://www.youtube.com/results?search_query=%s',
 ];
 ksort($arr);
 return $arr;
