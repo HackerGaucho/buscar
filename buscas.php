@@ -26,7 +26,7 @@ $arr=[
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
     //'imagens'=>'https://commons.wikimedia.org/w/index.php?search=%s&title=Special:MediaSearch&fulltext=Search',    
     //'informal'=>'https://www.dicionarioinformal.com.br/%s/',
-    //'instagram'=>'https://www.picuki.com/profile/%s',    
+    'instagram'=>'https://www.picuki.com/profile/%s',    
     'last.fm'=>'https://www.last.fm/search?q=%s',
     'letras'=>'https://www.letras.mus.br/?q=%s',
     //'limetorrents'=>'https://www.limetorrents.info/search/all/%s/seeds/1/',    

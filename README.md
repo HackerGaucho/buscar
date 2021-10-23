@@ -14,6 +14,7 @@ Formulário de busca em diversos sites
 1. es-pt
 1. extensões
 1. github
+1. instagram
 1. last.fm
 1. letras
 1. mdn
