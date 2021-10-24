@@ -25,7 +25,7 @@ $arr=[
     'extensões'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension',
     //'geonames'=>'https://www.geonames.org/search.html?q=%s',
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
-    'imdb'=>'https://www.imdb.com/find?q=%',
+    'imdb'=>'https://www.imdb.com/find?q=%s',
     //'imagens'=>'https://commons.wikimedia.org/w/index.php?search=%s&title=Special:MediaSearch&fulltext=Search',    
     //'informal'=>'https://www.dicionarioinformal.com.br/%s/',
     'instagram'=>'https://www.picuki.com/profile/%s',    
