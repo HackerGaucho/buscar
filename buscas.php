@@ -41,7 +41,7 @@ $arr=[
     'music'=>'https://music.youtube.com/search?q=%s',
     'notícias'=>'https://news.google.com/search?q=%s&hl=pt-BR&gl=BR&ceid=BR%3Apt-419',
     'oembed'=>'http://localhost/oembed/index.php?id=%s',
-    'ok'=>'https://go.mail.ru/search_video?q=%',
+    'ok'=>'https://go.mail.ru/search_video?q=%s',
     'packagist'=>'https://packagist.org/?query=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
     //'pkgs'=>'https://pkgs.org/download/%s',
