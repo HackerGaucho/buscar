@@ -10,6 +10,7 @@ Formulário de busca em diversos sites
 1. dicionario
 1. discogs
 1. docs (em espanhol)
+1. docs (nomes em espanhol)
 1. duck
 1. emojipedia
 1. en-pt
