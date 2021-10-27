@@ -35,7 +35,8 @@ if(isset($buscas[$key])){
     if(
     $key=='sci-hub' or    
     $key=='tpb' or
-    $key=='traduzir'    
+    $key=='traduzir' or
+    $key=='wayback machine' 
     ){
         $q=urldecode($q);
     }
