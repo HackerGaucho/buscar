@@ -33,7 +33,7 @@ $arr=[
     'letras'=>'https://www.letras.mus.br/?q=%s',
     //'limetorrents'=>'https://www.limetorrents.info/search/all/%s/seeds/1/',    
     'mdn'=>'https://developer.mozilla.org/en-US/search?q=%s',
-    //'mapas'=>'https://www.google.com.br/maps?hl=pt&q=%s',
+    'mapas'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     //'mememaker'=>'https://imgflip.com/memesearch?q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s/_OrderId_PRICE',
     //'midi'=>'https://bitmidi.com/search?q=%s',    
