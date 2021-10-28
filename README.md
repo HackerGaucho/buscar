@@ -20,6 +20,7 @@ Formulário de busca em diversos sites
 1. imdb
 1. instagram
 1. last.fm
+1. legendas
 1. letras
 1. mapas
 1. mdn
