@@ -40,4 +40,5 @@ Formulário de busca em diversos sites
 1. unicode
 1. username
 1. wayback machine
+1. wikipedia
 1. youtube
