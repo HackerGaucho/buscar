@@ -3,10 +3,12 @@ Formulário de busca em diversos sites
 
 ## Sites
 1. 4shared
+1. alexa
 1. allmusic
 1. archive
 1. atom
 1. books
+1. buscape
 1. dicionario
 1. discogs
 1. docs (em espanhol)
