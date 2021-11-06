@@ -20,6 +20,7 @@ Formulário de busca em diversos sites
 1. extensões
 1. github
 1. imdb
+1. informal
 1. instagram
 1. last.fm
 1. legendas

@@ -28,6 +28,7 @@ $arr=[
     'imdb'=>'https://www.imdb.com/find?q=%s',
     //'imagens'=>'https://commons.wikimedia.org/w/index.php?search=%s&title=Special:MediaSearch&fulltext=Search',    
     //'informal'=>'https://www.dicionarioinformal.com.br/%s/',
+    'informal'=>'https://www.dicionarioinformal.com.br/%s/',
     'instagram'=>'https://www.picuki.com/profile/%s',   
     'legendas'=>'http://legendas.tv/busca/%s', 
     'last.fm'=>'https://www.last.fm/search?q=%s',
