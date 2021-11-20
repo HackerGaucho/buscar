@@ -38,6 +38,7 @@ Formulário de busca em diversos sites
 1. php
 1. pt-en
 1. pt-es
+1. sci-hub
 1. tld
 1. tpb
 1. traduzir
