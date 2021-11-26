@@ -24,6 +24,7 @@ $arr=[
     'es-pt'=>'https://context.reverso.net/traducao/espanhol-portugues/%s',      
     'extensões'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension',
     //'geonames'=>'https://www.geonames.org/search.html?q=%s',
+    'genius'=>'https://genius.com/search?q=%s',
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
     'imdb'=>'https://www.imdb.com/find?q=%s',
     //'imagens'=>'https://commons.wikimedia.org/w/index.php?search=%s&title=Special:MediaSearch&fulltext=Search',    

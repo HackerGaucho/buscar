@@ -18,6 +18,7 @@ Formulário de busca em diversos sites
 1. en-pt
 1. es-pt
 1. extensões
+1. genius
 1. github
 1. imdb
 1. informal
