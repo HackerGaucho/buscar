@@ -21,4 +21,5 @@ Formulário de busca em diversos sites
 1. tld
 1. traduzir
 1. username
+1. wikipedia
 1. youtube

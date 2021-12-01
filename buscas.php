@@ -60,7 +60,7 @@ $arr=[
     //'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
     'username'=>'http://localhost/username/index.php?user=%s',
     //'wikidata'=>'https://www.wikidata.org/w/index.php?search=%s',
-    //'wikipedia'=>'https://pt.wikipedia.org/w/index.php?search=%s&title=Especial%3APesquisar&profile=default&fulltext=1&ns0=1',
+    'wikipedia'=>'https://pt.wikipedia.org/w/index.php?search=%s&title=Especial%3APesquisar&profile=default&fulltext=1&ns0=1',
     'youtube'=>'https://www.youtube.com/results?search_query=%s',
 ];
 ksort($arr);
