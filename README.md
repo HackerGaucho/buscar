@@ -11,6 +11,7 @@ Formulário de busca em diversos sites
 1. extensões
 1. github
 1. informal
+1. instagram
 1. mdn
 1. mp4
 1. music

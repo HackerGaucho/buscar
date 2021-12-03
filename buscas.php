@@ -30,7 +30,7 @@ $arr=[
     //'imagens'=>'https://commons.wikimedia.org/w/index.php?search=%s&title=Special:MediaSearch&fulltext=Search',    
     //'informal'=>'https://www.dicionarioinformal.com.br/%s/',
     'informal'=>'https://www.dicionarioinformal.com.br/%s/',
-    //'instagram'=>'https://www.picuki.com/profile/%s',   
+    'instagram'=>'https://www.picuki.com/profile/%s',   
     //'legendas'=>'http://legendas.tv/busca/%s', 
     //'last.fm'=>'https://www.last.fm/search?q=%s',
     //'letras'=>'https://www.vagalume.com.br/search?q=%s',//'https://www.letras.mus.br/?q=%s',
