@@ -55,7 +55,7 @@ $arr=[
     'traduzir'=>'https://www.deepl.com/translator#en/pt/%s',
     'tld'=>'https://tld-list.com/tld/%s',
     'tpb'=>'https://thepiratebay0.org/search/%s/1/99/0',
-    //'twitter'=>'https://twitter.com/search?q=%22%s%22%20lang%3Apt%20-filter:replies&src=typed_query&f=live',
+    'twitter'=>'https://twitter.com/search?q=%22%s%22%20lang%3Apt%20-filter:replies&src=typed_query&f=live',
     //'wayback machine'=>'http://web.archive.org/web/*/%s',
     //'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
     'username'=>'http://localhost/username/index.php?user=%s',
