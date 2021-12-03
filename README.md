@@ -2,6 +2,7 @@
 Formulário de busca em diversos sites
 
 ## Sites
+1. 4shared
 1. books
 1. dicionario
 1. emojipedia
@@ -20,6 +21,7 @@ Formulário de busca em diversos sites
 1. pt-en
 1. pt-es
 1. tld
+1. tpb
 1. traduzir
 1. username
 1. wikipedia

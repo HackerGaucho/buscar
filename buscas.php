@@ -1,6 +1,6 @@
 <?php
 $arr=[
-    //'4shared'=>'https://www.4shared.com/web/q/#query=%s&sort=size%2Cdesc',
+    '4shared'=>'https://www.4shared.com/web/q/#query=%s&sort=size%2Cdesc',
     //'acrônimos'=>'https://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym=%s',
     //'alexa'=>'https://alexa.com/siteinfo/%s',
     //'allmusic'=>'https://www.allmusic.com/search/all/%s',
@@ -54,7 +54,7 @@ $arr=[
     //'sci-hub'=>'https://sci-hub.se/%s',    
     'traduzir'=>'https://www.deepl.com/translator#en/pt/%s',
     'tld'=>'https://tld-list.com/tld/%s',
-    //'tpb'=>'https://thepiratebay0.org/search/%s/1/99/0',
+    'tpb'=>'https://thepiratebay0.org/search/%s/1/99/0',
     //'twitter'=>'https://twitter.com/search?q=%22%s%22%20lang%3Apt%20-filter:replies&src=typed_query&f=live',
     //'wayback machine'=>'http://web.archive.org/web/*/%s',
     //'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
