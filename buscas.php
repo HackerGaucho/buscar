@@ -9,6 +9,7 @@ $arr=[
     //'atom'=>'https://atom.io/packages/search?q=%s',
     'books'=>'https://br1lib.org/s/?q=%s',//https://book4you.org/s/?q=%s    
     //'buscape'=>'https://www.buscape.com.br/search?page=1&invalidPath=false&sortBy=prod_items_sort_by_price_asc&q=%s&no-shortcut=1',
+    'caniuse'=>'https://caniuse.com/?search=%s',
     //'dev.to'=>'https://dev.to/search?q=%s',
     'dicionario'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',          
     //'discogs'=>'https://www.discogs.com/search/?q=%s&type=all&format_exact=CD',    

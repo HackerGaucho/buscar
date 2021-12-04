@@ -51,8 +51,7 @@ if(isset($buscas[$key])){
 	$key=='traduzir'
     ){
     	$q=urldecode($q);
-        $q=str_replace('/',"\/",$q);  
-        $q=urlencode($q);    	
+        $q=str_replace('/',"\/",$q);    	
     }
     $str=str_replace("%s",$q,$str);
     header('Location: '.$str);
