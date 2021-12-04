@@ -28,5 +28,6 @@ Formulário de busca em diversos sites
 1. traduzir
 1. twitter
 1. username
+1. wayback machine
 1. wikipedia
 1. youtube
