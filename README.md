@@ -6,6 +6,7 @@ Formulário de busca em diversos sites
 1. books
 1. caniuse
 1. dicionario
+1. discogs
 1. emojipedia
 1. en-pt
 1. es-pt
