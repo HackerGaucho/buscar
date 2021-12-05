@@ -18,7 +18,7 @@ $arr=[
     //'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm', 
     //'ip'=>'https://ipinfo.io/%s',   
     //'isdown'=>'https://downstatuscheck.com/search.php?q=%s',   
-    //'duck'=>'https://duckduckgo.com/?q=%s&&kl=br-pt&ia=web',
+    'duck'=>'https://duckduckgo.com/?q=%s&&kl=br-pt&ia=web',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     //'enciclopedia'=>'https://pt.wikipedia.org/w/index.php?search=%s',
     'en-pt'=>'https://context.reverso.net/traducao/ingles-portugues/%s',    

@@ -42,7 +42,7 @@
             var busca=Cookies.get('busca');
             $('select[name=key] option[value="'+busca+'"]').attr('selected','selected');        
         }else{
-            $('select[name=key] option[value=wikipedia').attr('selected','selected');
+            $('select[name=key] option[value=duck').attr('selected','selected');
         }
         $('input[type=text]').focus();
         $('select').on('change', function (e) {
