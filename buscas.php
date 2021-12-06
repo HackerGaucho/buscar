@@ -13,7 +13,7 @@ $arr=[
     //'dev.to'=>'https://dev.to/search?q=%s',
     'dicionario'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',          
     'discogs'=>'https://www.discogs.com/search/?q=%s&type=all&format_exact=CD',    
-    //'docs (em espanhol)'=>'https://www.documaniatv.com/search.php?keywords=+%s',
+    'docs (em espanhol)'=>'https://www.documaniatv.com/search.php?keywords=+%s',
     //'docs (nomes em espanhol)'=>'https://www.filmaffinity.com/es/search.php?stext=%s',    
     //'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm', 
     //'ip'=>'https://ipinfo.io/%s',   

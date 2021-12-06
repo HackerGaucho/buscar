@@ -7,6 +7,7 @@ Formulário de busca em diversos sites
 1. caniuse
 1. dicionario
 1. discogs
+1. docs (em espanhol)
 1. duck
 1. emojipedia
 1. en-pt
