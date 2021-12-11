@@ -48,6 +48,7 @@ $arr=[
     'oembed'=>'http://localhost/oembed/index.php?id=%s',
     'ok'=>'https://go.mail.ru/search_video?q=%s',
     'packagist'=>'https://packagist.org/?query=%s',
+    'pdfdrive'=>'https://www.pdfdrive.com/search?q=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
     //'pkgs'=>'https://pkgs.org/download/%s',
     'pt-en'=>'https://context.reverso.net/traducao/portugues-ingles/%s',
