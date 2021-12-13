@@ -33,7 +33,7 @@ $arr=[
     'informal'=>'https://www.dicionarioinformal.com.br/%s/',
     'instagram'=>'https://www.picuki.com/profile/%s',   
     //'legendas'=>'http://legendas.tv/busca/%s', 
-    //'last.fm'=>'https://www.last.fm/search?q=%s',
+    'last.fm'=>'https://www.last.fm/search?q=%s',
     //'letras'=>'https://www.vagalume.com.br/search?q=%s',//'https://www.letras.mus.br/?q=%s',
     //'limetorrents'=>'https://www.limetorrents.info/search/all/%s/seeds/1/',    
     'mdn'=>'https://developer.mozilla.org/en-US/search?q=%s',
