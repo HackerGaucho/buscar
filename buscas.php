@@ -41,7 +41,7 @@ $arr=[
     //'mememaker'=>'https://imgflip.com/memesearch?q=%s',
     //'mercado livre'=>'https://lista.mercadolivre.com.br/%s/_OrderId_PRICE',
     //'midi'=>'https://bitmidi.com/search?q=%s',    
-    //'mint'=>'https://community.linuxmint.com/software/view/%s',    
+    'mint'=>'https://community.linuxmint.com/software/view/%s',    
     'mp4'=>'https://baixarseriesmp4.club/?s=%s',  
     'music'=>'https://music.youtube.com/search?q=%s',
     'notícias'=>'https://news.google.com/search?q=%s&hl=pt-BR&gl=BR&ceid=BR%3Apt-419',
