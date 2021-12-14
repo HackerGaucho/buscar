@@ -19,6 +19,7 @@ Formulário de busca em diversos sites
 1. informal
 1. instagram
 1. last.fm
+1. letras
 1. mdn
 1. mint
 1. mp4
